@@ -1,0 +1,38 @@
+.header .head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  padding: 20px;
+}
+h1 span {
+  color: rgb(23, 23, 141);
+  margin-left: 20px;
+}
+.nav{
+    display: flex;
+  justify-content: space-between;
+}
+.nav_bar {
+  
+  /* height: 420px; */
+  margin-left: 150px;
+  font-size: 20px;
+  word-spacing: 10px;
+  /* float: right; */
+  padding: 20px;
+}
+/* .nav-bar{
+    word-spacing: 10px;
+} */
+button {
+  color: #f9f9fa;
+  background-color: hsl(241, 100%, 62%);
+  font-size: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-right: 10px;
+}
